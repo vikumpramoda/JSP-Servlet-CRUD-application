@@ -36,14 +36,6 @@ User Object pass the parameteers
 ViewuserServelet 
 For  loop can view all the data in data base. Table creation code
 
-EDIT BUTTON 
-Going to edit servelat 
-
-EditGeekUserServlet  1  
-Edit Table view code 
-This is the edit method.
-This is my dependency
-
 
 
 
